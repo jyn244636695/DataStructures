@@ -1,4 +1,4 @@
-package com.LInkedList;
+package com.LInkedList链表;
 
 import java.util.Stack;
 

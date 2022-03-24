@@ -1,4 +1,4 @@
-package com.LInkedList;
+package com.LInkedList链表;
 
 public class listnode {
     public static void main(String[] args) {

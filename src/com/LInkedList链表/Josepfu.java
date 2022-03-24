@@ -1,4 +1,4 @@
-package com.LInkedList;
+package com.LInkedList链表;
 
 public class Josepfu {
     public static void main(String[] args) {
